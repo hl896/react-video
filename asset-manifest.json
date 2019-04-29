@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-videos.com/static/css/main.a01d90a7.chunk.css",
-  "main.js": "/react-videos.com/static/js/main.c134504f.chunk.js",
-  "main.js.map": "/react-videos.com/static/js/main.c134504f.chunk.js.map",
-  "runtime~main.js": "/react-videos.com/static/js/runtime~main.42a9f843.js",
-  "runtime~main.js.map": "/react-videos.com/static/js/runtime~main.42a9f843.js.map",
-  "static/js/2.1e7b24b2.chunk.js": "/react-videos.com/static/js/2.1e7b24b2.chunk.js",
-  "static/js/2.1e7b24b2.chunk.js.map": "/react-videos.com/static/js/2.1e7b24b2.chunk.js.map",
-  "index.html": "/react-videos.com/index.html",
-  "precache-manifest.a10bf336d11960ba56e300ba905f343d.js": "/react-videos.com/precache-manifest.a10bf336d11960ba56e300ba905f343d.js",
-  "service-worker.js": "/react-videos.com/service-worker.js",
-  "static/css/main.a01d90a7.chunk.css.map": "/react-videos.com/static/css/main.a01d90a7.chunk.css.map"
+  "main.css": "/react-video/static/css/main.a01d90a7.chunk.css",
+  "main.js": "/react-video/static/js/main.c134504f.chunk.js",
+  "main.js.map": "/react-video/static/js/main.c134504f.chunk.js.map",
+  "runtime~main.js": "/react-video/static/js/runtime~main.fd96a0e7.js",
+  "runtime~main.js.map": "/react-video/static/js/runtime~main.fd96a0e7.js.map",
+  "static/js/2.1e7b24b2.chunk.js": "/react-video/static/js/2.1e7b24b2.chunk.js",
+  "static/js/2.1e7b24b2.chunk.js.map": "/react-video/static/js/2.1e7b24b2.chunk.js.map",
+  "index.html": "/react-video/index.html",
+  "precache-manifest.6c41b4c5086051f7551ca22b4085194b.js": "/react-video/precache-manifest.6c41b4c5086051f7551ca22b4085194b.js",
+  "service-worker.js": "/react-video/service-worker.js",
+  "static/css/main.a01d90a7.chunk.css.map": "/react-video/static/css/main.a01d90a7.chunk.css.map"
 }
