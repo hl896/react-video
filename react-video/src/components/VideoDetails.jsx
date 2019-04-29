@@ -18,11 +18,13 @@ class VideoDetails extends React.Component{
         }
         // const details= video.snippet.title;
         console.log(this.props.videodetails.snippet.title)
-        const videoSrc= `https://www.youtube.com/embed/${this.props.videodetails.id.videoId}`
+
+        const videosrc= `https://www.youtube.com/embed/${this.props.videodetails.id.videoId}`
         return(
             <div>
-                <div className="ui embed" >
-                    <iframe src={videoSrc} frameborder="0"></iframe>
+                <div>
+                    <iframe allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" src={videosrc}  frameborder="0"></iframe>
+
                 </div>
                 <div className="ui segment">
                     <h4 className="ui header">{this.props.videodetails.snippet.title}</h4>

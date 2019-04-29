@@ -12,7 +12,7 @@ class VideoItems extends React.Component{
                 <img className="ui image" src={this.props.video.snippet.thumbnails.medium.url} alt=""/>
                 <div className="content">
                     <div className="header">{this.props.video.snippet.title}</div>
-                    <div>{this.props.video.snippet.description}</div>
+                    {/* <div className="des">{this.props.video.snippet.description}</div> */}
                 </div>
                 <hr/>
             </div>
